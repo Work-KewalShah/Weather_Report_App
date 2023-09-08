@@ -62,8 +62,8 @@ To provide a captivating and user-friendly experience, I've integrated various l
 
 **Get Started**
 
-- Explore the source code [here](link_to_source_code) to see how it all works.
-- Download the executable application [here](link_to_executable) to start using it right away.
+- Explore the source code [here](https://github.com/Work-KewalShah/Weather_Report_Application/blob/main/Weather_Report_App.py) to see how it all works.
+- Download the executable application [here](https://drive.google.com/file/d/1pGQcX23ngPVIzsSlZlvwInpesSEzokI2/view) to start using it right away.
 
 Stay ahead of the weather with the Weather Report Application. Plan your day with confidence, backed by accurate weather insights!!
 
