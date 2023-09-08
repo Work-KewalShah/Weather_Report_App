@@ -1,7 +1,7 @@
 <h1 align="center"> Weather_Report_App </h1><h3 align="center"> Kewal Shah </h3> <br>
 <p align="center">
   <a href="">
-    <img alt="Python and Openweathermap Logo" title="Weather_Report_App" src="https://i.imgur.com/XEd7xCE.png" width="500">
+    <img alt="Python and Openweathermap Logo" title="Weather_Report_App" src="https://i.imgur.com/XEd7xCE.png" width="480">
   </a>
 </p>
 
@@ -77,7 +77,7 @@ Stay ahead of the weather with the Weather Report Application. Plan your day wit
 
 <p align="center">
   <img src = "https://i.imgur.com/fUvgfjm.png" width=400><br>
-  Error detection and correction implementated for seemless user experience
+  Error detection and correction for seemless user experience
   <br>
 </p>
 
