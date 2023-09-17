@@ -1,4 +1,4 @@
-<h1 align="center"> Weather_Report_App </h1><h3 align="center"> Kewal Shah </h3> <br>
+<h1 align="center"> Weather Report App </h1><h3 align="center"> Kewal Shah </h3> <br>
 <p align="center">
   <a href="">
     <img alt="Python and Openweathermap Logo" title="Weather_Report_App" src="https://i.imgur.com/XEd7xCE.png" width="480">
