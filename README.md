@@ -9,8 +9,6 @@
   User-friendly tool providing up-to-date weather data in visually appealing and easy-to-understand format
 </p>
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -125,9 +123,10 @@ I'd love to hear from you and answer any questions you may have about the applic
 
 <p align ="center">
   <a href="mailto:work.kewalshah@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
-  </a>
+    <img src="https://img.shields.io/badge/Gmail: work.kewalshah@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
+  </a><br>
    <a href="https://www.linkedin.com/in/kewal-shah-work/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn: Kewal Shah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
 </p>
+
